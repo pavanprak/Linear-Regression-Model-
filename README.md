@@ -1,1 +1,2 @@
-# Linear-Regression-Model-
+# Linear-Regression-Model
+for AAPL stock
